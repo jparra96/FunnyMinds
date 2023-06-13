@@ -1,0 +1,2 @@
+# FunnyMinds
+Juego Funny Minds
